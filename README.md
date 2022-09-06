@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I love to fly and driving cars in simulators. In fact I have a gear for both endeavors such as flight sticks, wheel, or my Oculus quest 2.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
