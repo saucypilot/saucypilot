@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Irian</h1>
+<h1 align="center">Wassup, I'm Irian and welcome to my GitHub!</h1>
 <h3 align="center">I was a former flight school student who had to dropped out due to medical reasons. With nothing to do, I decided to try programming one day since I always had a interest in it. I fell in love with it instantly and have been constantly learning this field.</h3>
 
-- 🌱 I’m currently learning **to build programs with JavaScript and C++.**
+- 🌱 I’m currently learning **to build programs with JavaScript and C++. I'm also studying web development on the side.**
 
 - ⚡ Fun fact **I love to fly and driving cars in simulators. In fact I have a gear for both endeavors such as flight sticks, wheel, or my Oculus quest 2.**
 
