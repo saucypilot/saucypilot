@@ -7,7 +7,7 @@
 
 <h3 color="white">Other interests:</h3>
   <p>I'm big car enthusiast. In fact I have a force feedback wheel and a VR headset to play racing simulators. Rally and GT racing is my favorite, tough I do tend to do some touge driving or drifting from time to time.</p>
-  <p>Also I may have left flight school but I still live the feeling of being in the sky. Can't forget the first time I took flight on a Cessna. Hopefully I can come back to it when I get older and I can comfortably afford flight lessons.</p>
+  <p>Also I may have left flight school but I still love the feeling of being in the sky. Can't forget the first time I took flight on a Cessna. Hopefully I can come back to it when I get older and I can comfortably afford flight lessons.</p>
 <hr></hr>
 <p align="left">
 </p>
