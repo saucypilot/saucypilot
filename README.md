@@ -1,10 +1,9 @@
 <h1 align="center" color="red">Welcome to my page🤙🏼</h1>
-  <h3>Back then I was in flight school pursing my goal to become a pilot, but I had to dropped out due to medical reasons. With nothing to do, I wrote my first code out of boredom because why not. I've been hooked on it ever since and currently pursuing a computer science degree.</h3>
-<hr></hr>
+  <h3 align="center">Back then I was in flight school pursing my goal to become a pilot, but I had to dropped out due to medical reasons. With nothing to do, I wrote my first code out of boredom because why not. I've been hooked on it ever since and currently pursuing a computer science degree.</h3>
 <p align="left">
 </p>
 
-<h3 align="left" color="white">Languages and tools I use:</h3>
+<h2 align="left" color="white">My skills:</h2>
   <h4>Coding enviroment:</h4>
     <p> <img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" width="40" height="40"> <img src="https://img.icons8.com/color/344/git.png" width="40" height="40"> <img src="https://img.icons8.com/color/344/windows-10.png" width="40" height="40"> <img src="https://img.icons8.com/office/344/mac-os.png" width="40" height="40"> <img src="https://img.icons8.com/fluency/344/meta.png" width="40" height="40"> </p>
   <h4>Object-oriented programming:<h4>
