@@ -1,5 +1,5 @@
 <h1 align="center" color="red">Welcome to my page🤙🏼</h1>
-  <h3>I was in flight school but had to dropped out due to medical reasons. With nothing to do, I wrote my first code out of boredom because why not. I've been hooked on it ever since and currently pursuing a computer science degree. </h3>
+  <h3>Back then I was in flight school pursing my goal to become a pilot, but I had to dropped out due to medical reasons. With nothing to do, I wrote my first code out of boredom because why not. I've been hooked on it ever since and currently pursuing a computer science degree.</h3>
 <hr></hr>
 <p align="left">
 </p>
