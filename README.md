@@ -1,13 +1,5 @@
 <h1 align="center" color="red">Welcome to my page🤙🏼</h1>
-<h3 color="white">How I got into programming:</h3>
-  <p>I was a former flight school student who had to dropped out due to medical reasons. With nothing to do, I decided to try programming one day since I always had a interest in it. I fell in love with it instantly and have been constantly learning this field everyday of my life. If only I had discovered this passions years ago, I would be far ahead.</p>
-
-<h3 color="white">My goal in programming:</h3>
-  <p>I've always been a artistic and visual person. I even wanted to become a comic artist or an animator growing up and wanted to own own my studio one day. Becuase I develop this part of me for years, anything thats realted to design, aesthetics, anything visual, and etc., are things I excel at. This is why I love doing front-end development, game development, graphics programming, simulation, and so on.</p>
-
-<h3 color="white">Other interests:</h3>
-  <p>I'm big car enthusiast. In fact I have a force feedback wheel and a VR headset to play racing simulators. Rally and GT racing is my favorite, though I do tend to do some touge driving or drifting from time to time.</p>
-  <p>Also I may have left flight school but I still love the feeling of being in the sky. Can't forget the first time I took flight on a Cessna. Hopefully I can come back to it when I get older and I can comfortably afford flight lessons.</p>
+  <h3>Former flight school student who had to dropped out due to medical reasons. With nothing to do, I wrote my first code out of boredom because why not. I've been hooked on it ever since and currently pursuing a computer science degree. </h3>
 <hr></hr>
 <p align="left">
 </p>
