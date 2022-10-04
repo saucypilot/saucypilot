@@ -1,4 +1,4 @@
-<h1 align="center" color="red">Welcome to my page. 🤙🏼</h1>
+<h1 align="center" color="red">Welcome to my page🤙🏼</h1>
 <h3 color="white">How I got into programming:</h3>
   <p>I was a former flight school student who had to dropped out due to medical reasons. With nothing to do, I decided to try programming one day since I always had a interest in it. I fell in love with it instantly and have been constantly learning this field everyday of my life. If only I had discovered this passions years ago, I would be far ahead.</p>
 
