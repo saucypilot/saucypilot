@@ -22,7 +22,10 @@
         <img src="https://img.icons8.com/office/512/react.png" width="40" height="40">
         <img src="https://img.icons8.com/color/344/html-5.png" width="40" height="40">
         <img src="https://img.icons8.com/color/344/css3.png" width="40" height="40">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="40" height="40"> </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="40" height="40">
+        <img src="https://img.icons8.com/ios/512/jquery.png" width="40" height="40">
+    </p>
+    
   
   <h4>Other:</h4>
     <p>
