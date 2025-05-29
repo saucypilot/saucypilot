@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey there! I'm Irian
 
-<!--
-**saucypilot/saucypilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Artist turned Developer
 
-Here are some ideas to get you started:
+As an artist, I naturally gravitated towards the **visual side of programming**. My passion lies in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **🎮 Game Development**: Crafting interactive worlds where art and logic meet.
+* **🖥️ Computer Graphics & Vision**: Bringing visuals to life through rendering and imagery.
+* **🌐 Front-end Web Development**: Designing and developing visually engaging web interfaces.
+* **⚛️ Physics Simulation**: Simulating realistic and interactive environments.
+
+### ✨ Why visuals?
+
+Visual creativity drives my code. My background as an artist inspires me to see programming as another canvas, blending aesthetics and functionality.
